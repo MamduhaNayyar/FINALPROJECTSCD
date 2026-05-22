@@ -1,0 +1,4 @@
+Test Case 1: Add Patient → Passed
+Test Case 2: View Patients → Passed
+Test Case 3: Search Patient → Passed
+Test Case 4: Invalid Input → Handled
