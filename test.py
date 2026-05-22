@@ -4,7 +4,7 @@ Tests all core logic: add, view, search, delete, and exception handling.
 Run with: python -m pytest test_main.py -v
        or: python test_main.py
 """
-#test: add 14 unit tests using unittest framework
+#test: add 14 unit tests using unittest framework (14)
 import unittest
 
 
