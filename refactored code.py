@@ -73,6 +73,7 @@ def search_patient():
     except ValueError:
         messagebox.showerror("Input Error", "Please enter a valid numeric Patient ID.")
 
+ #Added delete patient feature and duplicate ID validation
 
 def delete_patient():
     """Delete a patient record by their unique ID."""
